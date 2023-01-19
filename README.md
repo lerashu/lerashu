@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.horizont.com.hr%2Fposao%2F&psig=AOvVaw05LdrbzUIz23O8q1yjFQVf&ust=1674256415233000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJCP6ajh1PwCFQAAAAAdAAAAABAE)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.horizont.com.hr%2Fposao%2F&psig=AOvVaw05LdrbzUIz23O8q1yjFQVf&ust=1674256415233000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJCP6ajh1PwCFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, My name is Rashad Sujayev</h1>
 <h3 align="center">Front - End Developer & Influencer</h3>
 
