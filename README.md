@@ -1,12 +1,19 @@
-# Hi 👋 My name is Rashad Sujayev
-
+<h1 align="center">Hi 👋, My name is Rashad Sujayev</h1>
 <h3 align="center">Front - End Developer & Influencer</h3>
-
-<p align-"left"> Hello, my name is Rashad, but I'm known on the internet as LeRas. I'm a Front - End Developer and I'm a freelancer and I've been dealing with these for about 6 months. I'm also creator of LeRas Community. Additionally, I'm a Influencer. If you have any project or idea, I would be very happy to help you. All you need to do is to contact me at sucayevr@gmail.com or check out the contact me section below.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lerashu&label=Profile%20views&color=0e75b6&style=flat" alt="lerashu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/leras0" target="blank"><img src="https://img.shields.io/twitter/follow/leras0?logo=twitter&style=for-the-badge" alt="leras0" /></a> </p>
+
+- 🔭 I’m currently working on **Modern JavaScript**
+
+- 🌱 I’m currently learning **React**
+
+- 👨‍💻 All of my projects are available at [https://www.leras.info/](https://www.leras.info/)
+
+- 💬 Ask me about **JavaScript**
+
+- 📫 How to reach me **sucayevr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
