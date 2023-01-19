@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Rashad Sujayev</h1>
 <h3 align="center">Front - End Developer & Influencer</h3>
 
-<p align="center"> Hello, my name is Rashad, but I'm known on the internet as LeRas. I'm a Front - End Developer and I'm a freelancer and I've been dealing with these for about 6 months. I'm also creator of LeRas Community. Additionally, I'm a Influencer. If you have any project or idea, I would be very happy to help you. All you need to do is to contact me at sucayevr@gmail.com or check out the contact me section below.</p>
+<p align="center"> Hello, my name is Rashad, but I'm known on the internet as LeRas. I'm a Front - End Developer and I'm a freelancer and I've been dealing with these for about 6 months. I'm also creator of LeRas Community. Additionally, I'm a Influencer. If you have any project or idea, I would be very happy to help you. All you need to do is to contact me at **sucayevr@gmail.com** or check out the contact me section below.</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lerashu&label=Profile%20views&color=0e75b6&style=flat" alt="lerashu" /> </p>
@@ -23,7 +23,7 @@
 <a href="https://twitter.com/leras0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leras0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/resadsucayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="resadsucayev" height="30" width="40" /></a>
 <a href="https://instagram.com/resadsucayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="resadsucayev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/leras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="leras" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/leras0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="leras" height="30" width="40" /></a>
 <a href="https://discord.gg/HRfzvDG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HRfzvDG" height="30" width="40" /></a>
 </p>
 
